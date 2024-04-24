@@ -1,2 +1,3 @@
-ju = "vamos si se puedee mis amoressss xd"
-print(ju)
+ju = "vamos si puedee mis amoressss xd"
+kili = " Kayokennn xd"
+print(ju + kili)
