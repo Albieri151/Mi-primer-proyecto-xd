@@ -2,5 +2,5 @@
 Mi Primer repositorio pibes xd
 
 ## Sayonara
-yujuuuuu :3
+MUSICA MAGISTRAL XD
 como estan mis niños xddd
