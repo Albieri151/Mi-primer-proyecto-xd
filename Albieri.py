@@ -1,2 +1,2 @@
-ju = "mis amoressss xd"
+ju = "vamos si se puedee mis amoressss xd"
 print(ju)
